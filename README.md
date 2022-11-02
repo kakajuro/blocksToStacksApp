@@ -24,7 +24,7 @@ cd your-project-name
 python main.py
 ```
 ## Download
-You can download the latest version [here](https://github.com/swishyy/blocksToStacks/releases/tag/v1.0.0)
+You can download the latest version [here](https://github.com/swishyy/blocksToStacksApp/releases/tag/v1.0.0)
 
 ## Credits
 Made almost entirely with the [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) library
